@@ -30,3 +30,7 @@ body{
 	color: green;
 	font-style: italic;
 }
+.sidebar{
+	width: 30%
+	float:right;
+}
