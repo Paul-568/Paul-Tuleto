@@ -19,3 +19,7 @@ h4{
 body{
 	background-color: red;
 }
+.intro{
+	font-style: italic;
+	color: purple;
+}
