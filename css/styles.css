@@ -6,7 +6,16 @@ h1{
 
 }
 h2{
-	color: yellow
+	color: green;
 	font-size:20px;
-	text-align: center;
+	text-align: left;
+}
+h3{
+	color: green;
+}
+h4{
+	color: green;
+}
+body{
+	background-color: red;
 }
