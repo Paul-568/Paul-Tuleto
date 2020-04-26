@@ -1,29 +1,29 @@
-#paul-tuleto
+# paul-tuleto
 
  This is my first Independed Project at Moringa School.It's a project to display my personal background information,Skills and Hobbies and the projects that I have created in my first week.
 
  #### By Paul Koinet Tuleto
 
-##Prerequisites
+## Prerequisites
 
 -Basic knowledge of Git including it's installed version
 -Basic knowledge of HTML 
 -Basic knowledge of CSS
 
-##Requirements
+## Requirements
 
 Sublime text editor
 installed version of Git
 Browser
 
-##Technologies used
+## Technologies used
 
 -HTML
 -Sublime Text editor
 -Terminal
 -Git VCS
 
-###Setup installations used
+### Setup installations used
 
 To run the application:
 
