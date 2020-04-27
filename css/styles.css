@@ -38,3 +38,7 @@ img{
 	width: 100%;
 	float: left;
 }
+.text-box{
+	border: 2px solid maroon;
+	background-color: orange
+}
